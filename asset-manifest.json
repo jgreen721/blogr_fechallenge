@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blogr_fechallenge/static/css/main.7caba65a.css",
+    "main.js": "/blogr_fechallenge/static/js/main.9b0e964b.js",
+    "index.html": "/blogr_fechallenge/index.html",
+    "main.7caba65a.css.map": "/blogr_fechallenge/static/css/main.7caba65a.css.map",
+    "main.9b0e964b.js.map": "/blogr_fechallenge/static/js/main.9b0e964b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7caba65a.css",
+    "static/js/main.9b0e964b.js"
+  ]
+}
