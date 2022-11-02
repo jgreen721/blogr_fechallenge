@@ -5,6 +5,8 @@
   background: linear-gradient(to right, var(--lightred), var(--red));
   padding: 2em;
   border-bottom-left-radius: 15%;
+  overflow: hidden;
+  /* border: 2px solid green; */
 }
 
 .header-overlay {
